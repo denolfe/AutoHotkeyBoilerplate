@@ -1,5 +1,5 @@
 /*
- HotString Documentation: http://ahkscript.org/docs/Functions.htm
+ Function Documentation: http://ahkscript.org/docs/Functions.htm
 
  Examples:
 
