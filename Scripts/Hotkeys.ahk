@@ -16,3 +16,6 @@
    # - Win
 
 */
+
+; Reload entire script
+^!r::Reload
