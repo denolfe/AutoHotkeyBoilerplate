@@ -13,3 +13,8 @@
 
 */
 
+Edit(file)
+{
+	global
+    Run % Settings.EditorPath " " file
+}
