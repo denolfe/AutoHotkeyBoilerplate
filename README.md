@@ -13,7 +13,7 @@ Prerequisite: Install [AutoHotkey](http://ahkscript.org/) from [ahkscript.org](h
 
 Options:
 
-- `git clone https://github.com/denolfe/AutoHotkey-Boilerplate.git`
+- `git clone https://github.com/denolfe/AutoHotkeyBoilerplate.git`
 - Download the repo and unzip
 - Fork to your own repo, then clone or download
 
